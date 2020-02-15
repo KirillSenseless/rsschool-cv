@@ -17,4 +17,4 @@ HTML, CSS, Git, Visual Studio Code
     BNTU, Mechanics and Technology Faculty, Engineer 
 
 ### English:
-   Pre-intermediate (А2)
+    Pre-intermediate (А2)
